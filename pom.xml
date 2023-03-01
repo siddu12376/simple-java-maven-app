@@ -176,15 +176,15 @@
   <repositories>
     <repository>
       <id>mavegrouprepo</id>
-      <name>mavegrouprepo</name>
-      <url>http://localhost:8081/repository/mavegrouprepo/</url>
+      <name>siddu3</name>
+      <url>http://localhost:8081/repository/siddu3/</url>
     </repository>
   </repositories>
   <distributionManagement>
     <repository>
       <id>mavereleaserepo</id>
-      <name>mavereleaserepo</name>
-      <url>http://localhost:8081/repository/mavereleaserepo/</url>
+      <name>siddu1</name>
+      <url>http://localhost:8081/repository/siddu1/</url>
     </repository>
  </distributionManagement>
 </project>
