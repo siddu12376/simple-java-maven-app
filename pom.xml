@@ -177,14 +177,14 @@
     <repository>
       <id>mavegrouprepo</id>
       <name>siddu3</name>
-      <url>http://localhost:8081/repository/siddu3/</url>
+      <url>http://localhost:8081/repository/batch3/</url>
     </repository>
   </repositories>
   <distributionManagement>
     <repository>
       <id>mavereleaserepo</id>
       <name>siddu1</name>
-      <url>http://localhost:8081/repository/siddu1/</url>
+	    <url>http://localhost:8081/repository/batch2/</url>
     </repository>
  </distributionManagement>
 </project>
