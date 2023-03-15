@@ -173,7 +173,7 @@
     </plugins>
   </build>
   <!--to read the artifacts from nexus-->
-  <repositories>
+ <!-- <repositories>
     <repository>
       <id>mavegrouprepo</id>
       <name>siddu3</name>
@@ -186,5 +186,5 @@
       <name>siddu1</name>
 	    <url>http://localhost:8081/repository/batch2/</url>
     </repository>
- </distributionManagement>
+ </distributionManagement> -->
 </project>
